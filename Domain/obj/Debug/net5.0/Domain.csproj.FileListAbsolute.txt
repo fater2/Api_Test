@@ -1,0 +1,15 @@
+D:\ebridge\new project\ApiTest\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\ebridge\new project\ApiTest\Domain\bin\Debug\net5.0\Domain.runtimeconfig.json
+D:\ebridge\new project\ApiTest\Domain\bin\Debug\net5.0\Domain.runtimeconfig.dev.json
+D:\ebridge\new project\ApiTest\Domain\bin\Debug\net5.0\Domain.dll
+D:\ebridge\new project\ApiTest\Domain\bin\Debug\net5.0\Domain.pdb
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.dll
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\refint\Domain.dll
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.pdb
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\Domain.genruntimeconfig.cache
+D:\ebridge\new project\ApiTest\Domain\obj\Debug\net5.0\ref\Domain.dll
